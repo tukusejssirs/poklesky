@@ -1,1 +1,2 @@
-#Programatorske poklesky\n##by Ivan Kopecek & Jan Kucera
+#Programatorske poklesky
+##by Ivan Kopecek & Jan Kucera
